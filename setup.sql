@@ -1,0 +1,5 @@
+CREATE DATABASE CarModDB;
+GO
+
+USE CarModDB;
+GO
